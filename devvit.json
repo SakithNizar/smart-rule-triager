@@ -34,5 +34,8 @@
   "scripts": {
     "dev": "node --experimental-strip-types ./tools/build.ts --watch",
     "build": "node --experimental-strip-types ./tools/build.ts --minify"
+  },
+  "dev": {
+    "subreddit": "smart_rule_triag_dev"
   }
 }
